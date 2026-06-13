@@ -112,4 +112,4 @@ To explore the network configurations:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/osamaloay/Enterprise-Network.git
+   git clone https://github.com/ashishkumar-net/Enterprise-Network-lab.git
